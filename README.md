@@ -1,6 +1,15 @@
 # Higher Lower README 
 
-### This is my solution to the Day 14 exercise in Angela Yu's "100 Days of Code"-course on Udemy.     
+### This is my solution to the Day 14 exercise in Angela Yu's "100 Days of Code"-course on Udemy. 
+
+If you want to run this program in your browser, you can follow this link: 
+
+https://mybinder.org/v2/gh/norwegJan/Higher_Lower_Game/HEAD
+
+After the URL have been built and loaded, in the launcher window, choose Terminal (in the bottom left), then run the command   
+`python main.py` 
+
+Have fun! 🤠
 
 
 
